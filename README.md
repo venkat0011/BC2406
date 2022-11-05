@@ -2,7 +2,7 @@
 ## BC2406 Course Repo
 
 In this course, there are 2 main analytic projects. One of them is the term project and the other is the computer based assement.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- about the project -->
 ## Course project
